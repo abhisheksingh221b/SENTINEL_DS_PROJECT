@@ -99,8 +99,8 @@ else:                                                     # the user picked one 
     title = region + ", " + country
 
 # ---------------------------------------------------------------- tabs
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["Results", "Compare conflicts", "Model comparison",
-                                              "Statistical tests", "Paste a report", "How it works"])
+tab1, tab2, tab3, tab4, tab5 = st.tabs(["Results", "Compare conflicts", "Model comparison",
+                                              "Statistical tests", "Paste a report"])
 
 # ================================================================ TAB 1: results for the choice
 with tab1:
