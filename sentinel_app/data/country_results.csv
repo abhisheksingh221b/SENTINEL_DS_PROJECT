@@ -1,0 +1,8 @@
+country,last_month,earlier_avg,forecast,low,high,direction,trend_p,trend_is_real,deaths_per_event,pct_regions_high_intensity,avg_region_severity
+Ukraine,7545.0,7630.8,8693.8,6736.7,10650.9,Rising,0.036,Yes,0.69,58,53
+Palestine,1486.0,1175.3,1426.2,1004.4,1847.9,Rising,0.443,No,0.14,100,72
+Sudan,316.0,330.5,349.4,222.6,476.1,Stable,0.82,No,3.16,11,52
+Myanmar,852.0,1285.3,1011.9,619.7,1404.0,Falling,0.217,No,0.89,89,69
+Syria,748.0,787.3,738.7,380.6,1096.9,Stable,0.417,No,0.25,93,54
+Democratic Republic of Congo,283.0,364.3,320.1,195.4,444.8,Falling,0.007,Yes,1.14,8,26
+Yemen,1920.0,573.7,1648.5,887.4,2409.6,Rising,0.286,No,0.63,45,54

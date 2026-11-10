@@ -1,0 +1,128 @@
+country,admin1,risk_group,severity,last_month,earlier_avg,forecast,low,high,direction,trend_p,trend_is_real
+Democratic Republic of Congo,Bas-Uele,Moderate,0,0.0,2.0,0.9,0.0,3.6,Stable,0.389,No
+Democratic Republic of Congo,Equateur,Low activity,12,1.0,0.3,0.2,0.0,1.1,Stable,0.186,No
+Democratic Republic of Congo,Haut-Katanga,Low activity,33,5.0,6.5,4.3,0.0,11.1,Falling,0.896,No
+Democratic Republic of Congo,Haut-Lomami,Moderate,32,2.0,0.2,0.8,0.0,2.3,Stable,0.31,No
+Democratic Republic of Congo,Haut-Uele,Moderate,35,1.0,4.5,3.1,0.0,10.0,Falling,0.685,No
+Democratic Republic of Congo,Ituri,Moderate,81,37.0,59.2,48.0,13.0,83.1,Falling,0.991,No
+Democratic Republic of Congo,Kasai,Low activity,17,2.0,1.3,1.7,0.0,6.3,Stable,0.965,No
+Democratic Republic of Congo,Kasai-Central,Low activity,18,3.0,2.3,2.2,0.0,5.3,Stable,0.891,No
+Democratic Republic of Congo,Kasai-Oriental,Low activity,16,1.0,1.3,1.5,0.0,3.9,Stable,0.687,No
+Democratic Republic of Congo,Kinshasa,Low activity,28,4.0,10.8,9.8,0.0,19.7,Stable,0.037,Yes
+Democratic Republic of Congo,Kongo-Central,Low activity,21,4.0,1.3,2.6,0.0,5.3,Stable,0.255,No
+Democratic Republic of Congo,Kwango,Low activity,16,0.0,0.5,0.7,0.0,2.6,Stable,0.067,No
+Democratic Republic of Congo,Kwilu,Low activity,26,4.0,2.2,2.6,0.0,5.8,Stable,0.609,No
+Democratic Republic of Congo,Lomami,Low activity,15,1.0,0.7,1.1,0.0,2.2,Stable,0.19,No
+Democratic Republic of Congo,Lualaba,Low activity,29,1.0,3.0,2.6,0.0,5.8,Falling,0.394,No
+Democratic Republic of Congo,Mai-Ndombe,Moderate,29,2.0,0.8,2.3,0.0,5.7,Stable,0.469,No
+Democratic Republic of Congo,Maniema,Low activity,35,4.0,2.3,3.7,0.0,10.3,Stable,0.725,No
+Democratic Republic of Congo,Mongala,Moderate,0,0.0,0.2,0.2,0.0,1.0,Stable,0.304,No
+Democratic Republic of Congo,Nord-Kivu,High intensity,88,123.0,144.8,149.3,79.9,218.7,Stable,0.124,No
+Democratic Republic of Congo,Nord-Ubangi,Low activity,4,0.0,0.3,0.4,0.0,1.3,Stable,1.0,No
+Democratic Republic of Congo,Sankuru,Low activity,0,0.0,0.7,0.5,0.0,2.0,Stable,0.043,Yes
+Democratic Republic of Congo,Sud-Kivu,High intensity,87,78.0,109.5,87.1,7.3,166.9,Falling,0.075,No
+Democratic Republic of Congo,Sud-Ubangi,Low activity,4,1.0,0.2,0.4,0.0,1.2,Stable,0.666,No
+Democratic Republic of Congo,Tanganyika,Low activity,27,6.0,3.5,3.0,0.0,7.8,Falling,0.269,No
+Democratic Republic of Congo,Tshopo,Low activity,17,3.0,5.5,3.9,0.0,10.7,Falling,0.411,No
+Democratic Republic of Congo,Tshuapa,Low activity,0,0.0,0.3,0.1,0.0,1.0,Stable,0.247,No
+Myanmar,Ayeyarwady,High intensity,72,37.0,29.5,33.8,6.9,60.6,Rising,0.007,Yes
+Myanmar,Bago-East,High intensity,63,23.0,53.8,28.3,0.0,71.8,Falling,0.067,No
+Myanmar,Bago-West,High intensity,70,41.0,51.2,37.8,1.5,74.1,Falling,0.013,Yes
+Myanmar,Chin,High intensity,71,29.0,69.5,41.6,0.0,87.1,Falling,0.914,No
+Myanmar,Kachin,High intensity,87,62.0,74.5,63.2,22.1,104.3,Falling,0.19,No
+Myanmar,Kayah,High intensity,67,25.0,25.7,24.3,12.8,35.7,Stable,0.879,No
+Myanmar,Kayin,High intensity,84,41.0,83.7,62.3,17.2,107.4,Falling,0.025,Yes
+Myanmar,Magway,High intensity,91,93.0,190.3,162.3,60.1,264.4,Falling,0.914,No
+Myanmar,Mandalay,High intensity,85,81.0,114.7,88.3,26.7,150.0,Falling,0.024,Yes
+Myanmar,Mon,High intensity,65,39.0,50.7,33.1,0.0,73.7,Falling,0.054,No
+Myanmar,Nay Pyi Taw,High intensity,33,12.0,7.3,9.6,1.7,17.5,Rising,0.502,No
+Myanmar,Rakhine,High intensity,88,149.0,93.5,139.0,96.5,181.5,Rising,0.226,No
+Myanmar,Sagaing,High intensity,85,100.0,236.8,136.0,11.0,261.0,Falling,0.09,No
+Myanmar,Shan-East,Moderate,36,1.0,3.2,1.8,0.0,7.9,Falling,0.182,No
+Myanmar,Shan-North,High intensity,66,23.0,48.3,15.8,0.0,51.1,Falling,0.272,No
+Myanmar,Shan-South,Moderate,64,14.0,27.5,22.9,0.9,45.0,Falling,0.64,No
+Myanmar,Tanintharyi,High intensity,76,47.0,92.3,52.8,0.1,105.5,Falling,0.084,No
+Myanmar,Yangon,High intensity,40,35.0,32.8,39.7,20.0,59.4,Rising,0.593,No
+Palestine,Gaza Strip,High intensity,88,442.0,368.7,450.7,284.9,616.6,Rising,0.557,No
+Palestine,West Bank,High intensity,56,1044.0,806.7,920.9,624.0,1217.9,Rising,0.152,No
+Sudan,Abyei,Moderate,34,3.0,1.7,2.8,0.3,5.3,Stable,0.018,Yes
+Sudan,Al Jazirah,Low activity,31,5.0,3.8,4.4,0.0,14.5,Rising,0.234,No
+Sudan,Blue Nile,Moderate,77,43.0,27.2,37.0,9.8,64.2,Rising,0.005,Yes
+Sudan,Central Darfur,Moderate,49,2.0,8.2,5.3,0.8,9.9,Falling,0.31,No
+Sudan,East Darfur,Moderate,56,6.0,8.0,7.6,1.5,13.6,Stable,0.289,No
+Sudan,Gedaref,Low activity,31,4.0,2.5,3.8,0.0,7.8,Stable,0.15,No
+Sudan,Kassala,Moderate,32,4.0,4.8,4.3,0.0,9.2,Falling,0.869,No
+Sudan,Khartoum,High intensity,56,15.0,13.8,17.2,1.9,32.4,Rising,0.145,No
+Sudan,North Darfur,Moderate,79,36.0,35.0,34.1,0.0,71.7,Stable,0.029,Yes
+Sudan,North Kordofan,Moderate,94,83.0,49.2,77.5,24.7,130.3,Rising,0.245,No
+Sudan,Northern,Low activity,42,0.0,6.5,5.4,0.0,15.2,Falling,0.201,No
+Sudan,Red Sea,Low activity,31,7.0,7.0,6.9,0.0,14.2,Stable,0.437,No
+Sudan,River Nile,Low activity,39,5.0,3.0,4.5,0.0,9.1,Rising,0.487,No
+Sudan,Sennar,Moderate,0,0.0,1.2,0.1,0.0,4.5,Stable,0.035,Yes
+Sudan,South Darfur,Moderate,77,35.0,41.2,36.2,18.2,54.2,Falling,0.744,No
+Sudan,South Kordofan,Moderate,82,34.0,57.8,41.4,0.0,94.4,Falling,0.579,No
+Sudan,West Darfur,Moderate,70,11.0,12.3,11.4,0.0,27.6,Stable,0.323,No
+Sudan,West Kordofan,Moderate,77,21.0,37.0,30.6,0.0,71.6,Falling,0.048,Yes
+Sudan,White Nile,High intensity,31,2.0,10.3,3.3,0.0,11.0,Falling,0.243,No
+Syria,Al Hasakeh,High intensity,58,140.0,134.0,121.4,2.7,240.0,Stable,0.276,No
+Syria,Aleppo,High intensity,71,51.0,117.8,59.4,0.0,213.2,Falling,0.007,Yes
+Syria,Ar Raqqa,High intensity,54,36.0,66.7,45.3,0.0,102.3,Falling,0.151,No
+Syria,As Sweida,High intensity,66,38.0,52.3,47.5,13.8,81.2,Stable,0.245,No
+Syria,Damascus,Low activity,42,18.0,22.3,22.2,8.1,36.3,Stable,0.346,No
+Syria,Dara,High intensity,62,100.0,74.7,74.0,26.2,121.7,Stable,0.005,Yes
+Syria,Deir ez Zor,High intensity,70,71.0,87.2,68.3,0.0,140.0,Falling,0.003,Yes
+Syria,Hama,High intensity,62,42.0,25.0,38.3,23.4,53.1,Rising,0.34,No
+Syria,Homs,High intensity,62,53.0,35.2,45.5,23.0,68.0,Rising,0.301,No
+Syria,Idleb,High intensity,48,24.0,16.5,23.5,4.1,42.8,Rising,0.222,No
+Syria,Lattakia,High intensity,42,16.0,15.5,16.4,0.0,37.7,Stable,0.021,Yes
+Syria,Quneitra,High intensity,29,102.0,102.3,102.8,59.5,146.1,Stable,0.846,No
+Syria,Rural Damascus,High intensity,64,52.0,31.3,43.9,19.6,68.1,Rising,0.198,No
+Syria,Tartous,High intensity,32,5.0,6.5,5.6,0.0,15.3,Falling,0.141,No
+Ukraine,Cherkasy,Low activity,27,21.0,13.3,20.7,12.3,29.2,Rising,0.178,No
+Ukraine,Chernihiv,High intensity,60,272.0,350.8,318.3,237.3,399.4,Stable,0.236,No
+Ukraine,Chernivtsi,Low activity,16,3.0,0.7,1.8,0.0,4.2,Stable,0.714,No
+Ukraine,Crimea,High intensity,62,59.0,67.0,70.3,0.0,147.1,Stable,0.017,Yes
+Ukraine,Dnipropetrovsk,High intensity,89,369.0,564.0,414.8,271.9,557.6,Falling,0.296,No
+Ukraine,Donetsk,High intensity,100,1602.0,1748.8,1867.9,1369.8,2366.1,Stable,0.542,No
+Ukraine,Ivano-Frankivsk,Low activity,22,1.0,3.5,5.8,0.0,15.7,Rising,0.545,No
+Ukraine,Kharkiv,High intensity,97,1042.0,987.2,1089.3,824.1,1354.6,Rising,0.026,Yes
+Ukraine,Kherson,High intensity,99,975.0,1269.7,1167.5,859.9,1475.2,Stable,0.365,No
+Ukraine,Khmelnytskyi,Low activity,20,18.0,7.5,9.5,0.1,18.8,Rising,0.335,No
+Ukraine,Kirovohrad,Low activity,29,27.0,11.3,16.3,6.1,26.5,Rising,0.019,Yes
+Ukraine,Kyiv,High intensity,58,118.0,22.0,64.1,5.4,122.7,Rising,0.243,No
+Ukraine,Kyiv City,High intensity,70,123.0,30.3,103.6,46.7,160.4,Rising,0.117,No
+Ukraine,Luhansk,High intensity,79,91.0,62.3,93.7,2.5,185.0,Rising,0.002,Yes
+Ukraine,Lviv,Low activity,29,3.0,7.5,6.8,0.0,16.8,Stable,0.268,No
+Ukraine,Mykolaiv,High intensity,57,39.0,52.2,20.3,0.0,54.3,Falling,0.263,No
+Ukraine,Odesa,High intensity,65,65.0,33.5,57.0,27.7,86.2,Rising,0.096,No
+Ukraine,Poltava,High intensity,44,30.0,19.0,33.4,12.7,54.2,Rising,0.0,Yes
+Ukraine,Rivne,Low activity,31,16.0,5.0,8.1,0.8,15.5,Rising,0.061,No
+Ukraine,Sumy,High intensity,94,894.0,842.0,917.3,667.7,1166.9,Stable,0.003,Yes
+Ukraine,Ternopil,Low activity,16,3.0,1.5,2.7,0.0,6.1,Stable,0.875,No
+Ukraine,Vinnytsia,Low activity,30,7.0,4.3,5.7,1.2,10.2,Rising,0.223,No
+Ukraine,Volyn,Low activity,33,10.0,4.8,5.9,0.4,11.4,Rising,0.039,Yes
+Ukraine,Zakarpattia,Low activity,16,0.0,2.5,4.0,0.0,13.0,Stable,0.148,No
+Ukraine,Zaporizhia,High intensity,97,1733.0,1513.0,1922.0,1136.4,2707.6,Rising,0.0,Yes
+Ukraine,Zhytomyr,High intensity,36,24.0,7.0,14.9,2.3,27.5,Rising,0.019,Yes
+Yemen,Abyan,High intensity,66,29.0,19.3,30.3,3.5,57.2,Rising,0.051,No
+Yemen,Ad Dali,High intensity,82,78.0,37.7,76.1,29.2,123.0,Rising,0.003,Yes
+Yemen,Aden,Low activity,36,31.0,44.3,32.7,0.0,66.2,Falling,0.226,No
+Yemen,Al Bayda,High intensity,65,69.0,19.7,28.6,0.0,57.4,Rising,0.358,No
+Yemen,Al Hudaydah,High intensity,86,123.0,28.5,104.2,28.9,179.5,Rising,0.066,No
+Yemen,Al Jawf,High intensity,76,84.0,23.2,59.8,21.5,98.0,Rising,0.124,No
+Yemen,Al Mahrah,Low activity,4,1.0,6.3,2.6,0.0,18.5,Falling,0.049,Yes
+Yemen,Al Mahwit,Low activity,19,21.0,34.8,23.0,9.1,36.8,Falling,0.422,No
+Yemen,Amanat al Asimah,Low activity,56,43.0,24.7,39.6,16.7,62.6,Rising,0.948,No
+Yemen,Amran,Low activity,54,27.0,12.5,19.7,4.5,34.9,Rising,0.931,No
+Yemen,Dhamar,Low activity,38,27.0,8.3,14.1,0.0,31.0,Rising,0.879,No
+Yemen,Hadramawt,High intensity,57,26.0,33.3,29.6,0.0,92.7,Falling,0.854,No
+Yemen,Hajjah,Low activity,50,46.0,46.8,47.3,16.9,77.6,Stable,0.991,No
+Yemen,Ibb,Low activity,50,22.0,26.2,25.1,0.0,57.5,Stable,0.383,No
+Yemen,Lahij,High intensity,87,211.0,32.3,231.0,134.8,327.3,Rising,0.17,No
+Yemen,Marib,High intensity,85,174.0,43.0,129.3,44.0,214.5,Rising,0.04,Yes
+Yemen,Raymah,Low activity,16,9.0,11.3,10.0,2.4,17.6,Falling,0.395,No
+Yemen,Sadah,Low activity,53,107.0,22.8,98.9,34.7,163.0,Rising,0.442,No
+Yemen,Sanaa,Low activity,39,10.0,16.2,17.6,0.0,45.0,Stable,0.095,No
+Yemen,Shabwah,High intensity,72,41.0,26.2,32.2,4.4,59.9,Rising,0.721,No
+Yemen,Suqutra,Low activity,9,1.0,2.2,0.0,0.0,4.2,Stable,0.893,No
+Yemen,Taizz,High intensity,94,740.0,54.0,959.5,578.5,1340.5,Rising,0.404,No

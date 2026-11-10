@@ -1,0 +1,5 @@
+model,R2,average_error
+Baseline (always the average),-0.005,1.627
+Linear Regression,0.664,0.902
+Decision Tree,0.738,0.734
+Random Forest,0.803,0.643

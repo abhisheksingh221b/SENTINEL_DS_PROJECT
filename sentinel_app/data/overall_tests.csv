@@ -1,0 +1,3 @@
+test,p_value,answer
+Kruskal-Wallis: do countries differ in deaths per event?,6.421173885550677e-38,"Yes, they differ"
+Chi-square: is the event mix linked to the country?,0.0,"Yes, the mix differs"

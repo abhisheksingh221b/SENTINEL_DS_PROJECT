@@ -1,0 +1,4 @@
+item,value
+last_complete_month,2026-09-01
+best_severity_model,Random Forest
+best_forecast_method,ARIMA
